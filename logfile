@@ -1,0 +1,2 @@
+2021-05-14 11:48:54.330 CEST [39508] FATAL:  lock file "postmaster.pid" already exists
+2021-05-14 11:48:54.330 CEST [39508] HINT:  Is another postmaster (PID 39254) running in data directory "/Users/nunocf/code/todo_haskell/build/db/state"?
